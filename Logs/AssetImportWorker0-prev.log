@@ -1,0 +1,228 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.26f1 (6f076387c01d) revision 7276387'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1586; Version 2009; 64bit' Language: 'ru' Physical Memory: 8076 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/VLaD/SpringProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49821
+Successfully changed project path to: C:/Users/VLaD/SpringProject
+C:/Users/VLaD/SpringProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 265.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.26f1 (6f076387c01d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/VLaD/SpringProject/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002887 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 270.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.056 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3056ms)
+		BeginReloadAssembly (143ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1296ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (421ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (681ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (271ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (315ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017451 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\VLaD\SpringProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\VLaD\SpringProject\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 268.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.313 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3315ms)
+		BeginReloadAssembly (386ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (2789ms)
+			LoadAssemblies (236ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (960ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (133ms)
+			SetupLoadedEditorAssemblies (1198ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (269ms)
+				BeforeProcessingInitializeOnLoad (242ms)
+				ProcessInitializeOnLoadAttributes (622ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.2 MB.
+System memory in use after: 139.4 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4219.
+Total: 8.839800 ms (FindLiveObjects: 0.697800 ms CreateObjectMapping: 0.615600 ms MarkObjects: 7.404900 ms  DeleteObjects: 0.119600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Background
+  artifactKey: Guid(871832505a04c714ebed7a1156263348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background using Guid(871832505a04c714ebed7a1156263348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f5c21b7ff285a40d8e0f0eb07b6deb') in 0.020231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 99.619830 seconds.
+  path: Assets/Sprites/Background/ground1.png
+  artifactKey: Guid(2cd87e55c43f2f1419ab2b3e397c9fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/ground1.png using Guid(2cd87e55c43f2f1419ab2b3e397c9fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11bb62197296af75b8c8195c9310c721') in 0.256164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.706413 seconds.
+  path: Assets/Sprites/Background/ground2.png
+  artifactKey: Guid(3a14de93b19c7f94ea260582c0736dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/ground2.png using Guid(3a14de93b19c7f94ea260582c0736dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143d839bd4534aef4ab5056bd8dc99f1') in 0.046485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.605339 seconds.
+  path: Assets/Sprites/Background/dark sky 2.png
+  artifactKey: Guid(55361963bb970614690a352fd2752435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/dark sky 2.png using Guid(55361963bb970614690a352fd2752435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eebe491a6c7830b8229f06f389fc680') in 0.063656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.253186 seconds.
+  path: Assets/Sprites/Background/Монтажная область 3 backsky.png
+  artifactKey: Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/Монтажная область 3 backsky.png using Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c4a7f40d20f5a37d22d7d9f93989b3') in 0.038509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 174.961869 seconds.
+  path: Assets/Sprites/Background/dark sky 2.png
+  artifactKey: Guid(55361963bb970614690a352fd2752435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/dark sky 2.png using Guid(55361963bb970614690a352fd2752435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755f724b7278eace24ede491bd784b71') in 0.036719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.426300 seconds.
+  path: Assets/Sprites/Background/ground1.png
+  artifactKey: Guid(2cd87e55c43f2f1419ab2b3e397c9fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/ground1.png using Guid(2cd87e55c43f2f1419ab2b3e397c9fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a597b993d3a02390f1960fdf265c9a') in 0.029912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.117939 seconds.
+  path: Assets/Sprites/Background/ground2.png
+  artifactKey: Guid(3a14de93b19c7f94ea260582c0736dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/ground2.png using Guid(3a14de93b19c7f94ea260582c0736dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c3d9babc8c9b9cb7eeb2c3a6702050') in 0.038726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.044116 seconds.
+  path: Assets/Sprites/Background/Монтажная область 3 backsky.png
+  artifactKey: Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/Монтажная область 3 backsky.png using Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b42886d598676d3cff1d0aa9b789fa') in 0.030744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.901364 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fddea6c81ff1bec1e2592361e1ead30') in 0.019157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 407.019758 seconds.
+  path: Assets/Sprites/Background/лес.png
+  artifactKey: Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/лес.png using Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ced975f06f72a448572e305fe1a866') in 0.067550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.962647 seconds.
+  path: Assets/Sprites/Background/dark sky 1.png
+  artifactKey: Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/dark sky 1.png using Guid(1405052e0bb878f4394c5e177d97025f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7095798db0b7a560b4bc55b3ece55d') in 0.038835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.680605 seconds.
+  path: Assets/Sprites/Background/лес.png
+  artifactKey: Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/лес.png using Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d99279daac0c9df5eb90929965f7ae') in 0.040696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 253.587245 seconds.
+  path: Assets/Sprites/Background/лес.png
+  artifactKey: Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/лес.png using Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ba8f00a602e58e1bba8568a657794d') in 0.059297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.742539 seconds.
+  path: Assets/Sprites/Background/лес.png
+  artifactKey: Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/лес.png using Guid(b4c520f1a1143d947a622e97b399502c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d24001a0e03d4551abef4fba5b118a') in 0.033875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.689138 seconds.
+  path: Assets/Sprites/Background/лес2.jpg
+  artifactKey: Guid(ed9166252727a03488a3f8fb7e4d061a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/лес2.jpg using Guid(ed9166252727a03488a3f8fb7e4d061a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329e2747933784e6f5ac1d9b45ce1cdc') in 0.072132 seconds 
